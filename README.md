@@ -1,10 +1,15 @@
-### Hi there 👋
+# R4DS3C
 
-
-
-
+<b>My skillset</b> 🔧 <br><br>
+- ✔️ Web Application Penetration Testing <br>
+- ✔️ Playing CTFs and Hacking related challenges<br>
+- ✔️ Networking <br>
+- ✔️ Python <br>
+- ✔️ OSINT <br>
+- ✔️ Linux<br>
+<br>
 [![r4ds3c's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4ds3c)](https://github.com/r4ds3c/github-readme-stats)
-
+<BR>
 
 
 <!--
