@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+
+[![r4ds3c's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4ds3c)](https://github.com/r4ds3c/github-readme-stats)
+
+
+
 <!--
 **r4ds3c/r4ds3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
