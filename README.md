@@ -8,8 +8,10 @@
 - ✔️ OSINT <br>
 - ✔️ Linux<br>
 <br>
-[![r4ds3c's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4ds3c)](https://github.com/r4ds3c/github-readme-stats)
-<BR>
+![r4ds3c's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4ds3c)](https://github.com/r4ds3c/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=r4ds3c&theme=merko&show_icons=true" align="center">
+
+<br>
 
 
 <!--
