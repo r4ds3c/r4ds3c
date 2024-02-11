@@ -12,6 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=r4ds3c&theme=merko&show_icons=true" align="center">
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ds3c&hide_progress=true)
 
 <!--
 **r4ds3c/r4ds3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
