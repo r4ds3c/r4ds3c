@@ -13,6 +13,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ds3c&theme=merko&show_progress=true)
+![0xr4ds3c Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=r4ds3c&theme=react-dark)
 
 <!--
 **r4ds3c/r4ds3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
