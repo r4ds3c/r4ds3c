@@ -7,7 +7,6 @@
 - ✔️ Python <br>
 - ✔️ OSINT <br>
 - ✔️ Linux<br>
-- 🌱 I’m currently learning ... Pentest+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=r4ds3c&theme=merko&show_icons=true" align="center">
