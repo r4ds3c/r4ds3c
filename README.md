@@ -1,6 +1,6 @@
 # r4ds3c
 
-<b>My skillset</b> 🔧 <br><br>
+<b>My developing skillset</b> 🔧 <br><br>
 - ✔️ Security+ <br>
 - ✔️ Playing CTFs and Hacking related challenges<br>
 - ✔️ Networking <br>
