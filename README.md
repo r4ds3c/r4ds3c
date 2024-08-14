@@ -1,4 +1,4 @@
-# 👾 Welcome to My GitHub Profile! 👾
+# 👾 Welcome 👾
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r4ds3c&theme=merko&show_icons=true" alt="r4ds3c's GitHub Stats" />
