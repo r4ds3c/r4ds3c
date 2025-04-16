@@ -13,11 +13,11 @@ Here’s a glimpse of what I’m good at:
 - 🌐 **Networking** - Connecting the dots in the digital world.
 - 🐍 **Python** - Automating, scripting, and problem-solving with elegance.
 - 🔍 **OSINT** - Digging deep to find what’s hidden.
-- 🐧 **Linux** - Command line guru and system tinkerer.
+- 🐧 **Linux** - commandline guru and system tinkerer.
 
 ## 🎯 What I’m Currently Focusing On
 
-- 💡 Enhancing my cybersecurity skills by exploring advanced penetration testing techniques.
+- 💡 Enhancing my cybersecurity skills by exploring and learning advanced penetration testing techniques+
 - 📚 Deep diving into cloud security and containerization.
 
 ## 📫 How to Reach Me
