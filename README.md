@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Digital Domain! 👾</h1>
+<h1 align="center">Welcome...</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r4ds3c&theme=merko&show_icons=true" alt="r4ds3c's GitHub Stats" />
