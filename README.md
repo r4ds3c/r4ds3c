@@ -33,9 +33,25 @@ Here’s a snapshot of what I bring to the table:
 - 💬 Always open to collabs, CTF teams, and good convos on cybersecurity.
 
 ---
-
 <p align="center">
+
+  <!-- Role -->
   <img src="https://img.shields.io/badge/Hacker-Ethical-informational?style=for-the-badge&logo=linux&color=blue" />
-  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Red%20Team-critical?style=for-the-badge&logo=github" />
+
+  <!-- Languages & Tools -->
+  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scripting-Bash-blue?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Nmap-lightgrey?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-red?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+  <!-- Platforms -->
+  <img src="https://img.shields.io/badge/Platform-Kali%20Linux-important?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+  <!-- Activities -->
+  <img src="https://img.shields.io/badge/OSINT-Tools-orange?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF-Player-yellow?style=for-the-badge&logo=hackthebox&logoColor=black" />
+
 </p>
+
