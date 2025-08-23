@@ -23,14 +23,14 @@ Here’s a snapshot of what I bring to the table:
 
 - 📚 Grinding through **CompTIA PenTest+** – sharpening those offensive security skills.
 - 🛠️ Hands-on lab time with penetration testing, red teaming, and exploit development.
-- ☁️ Diving deep into **cloud security**, containers, and **Kubernetes** hardening techniques.
+- ☁️ Diving deep into **cloud security**, containers, and hardening techniques.
 
 ---
 
 ## 📫 Let’s Connect
 
 - 🌐 **Blog/Portfolio:** [r4ds3c.com](https://r4ds3c.com)
-- 💬 Always open to collabs, CTF teams, and good convos on cybersecurity.
+- 💬 Always open to collabs, CTF teams, and good talkhardeningrsecurity.
 
 ---
 <p align="center">
