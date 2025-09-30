@@ -47,3 +47,24 @@ Here’s a snapshot of what I bring to the table:
 
 </p>
 
+<h1 align="center">Welcome...</h1>
+
+
+
+
+
+
+<p align="center">
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=r4ds3c&theme=merko&show_icons=true" alt="r4ds3c's GitHub Stats" />
+
+
+</p>
+
+
+
+
+
+---
+
