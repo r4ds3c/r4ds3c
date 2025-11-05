@@ -5,7 +5,6 @@ Here’s a snapshot of what I bring to the table:
 - 🛡️ **Security+ Certified** – Solid foundation in cybersecurity principles and practices.
 - 🧠 **CTFs & Hacking Challenges** – Addicted to breaking, solving, and learning through cyber puzzles.
 - 🌐 **Networking** – Proficient with protocols, configurations, and defense mechanisms.
-- 🐍 **Python Development** – Creating tools and automation scripts to supercharge infosec workflows.
 - 🔍 **OSINT Investigator** – Master of the digital footprint and info extraction from open sources.
 - 🐧 **Linux Wizardry** – Fluent in the terminal, shell scripting, and system hardening.
 
