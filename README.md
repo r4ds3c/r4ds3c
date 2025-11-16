@@ -31,7 +31,7 @@ Here’s a snapshot of what I bring to the table:
   <img src="https://img.shields.io/badge/Focus-Red%20Team-critical?style=for-the-badge&logo=github" />
 
   <!-- Languages & Tools -->
-  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Scripting-Bash-blue?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Nmap-lightgrey?style=for-the-badge&logo=nmap&logoColor=white" />
