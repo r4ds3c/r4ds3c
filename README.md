@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logo=graphcool&logoColor=white" />
   <img src="https://img.shields.io/badge/Responder-444?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Impacket-6A1B9A?style=for-the-badge&logo=python&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Gobuster-6f42c1?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/FFUF-0080ff?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Hydra-111?style=for-the-badge&logo=security&logoColor=white" />
@@ -65,8 +65,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
@@ -75,7 +73,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Maltego-0057ff?style=for-the-badge&logo=maltego&logoColor=white" />
   <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpiderFoot-2b2b2b?style=for-the-badge&logo=python&logoColor=white" />
+  
 </p>
 
 ---
