@@ -1,19 +1,7 @@
-👋 Hey, I'm r4ds3c
 
-Building things, breaking things, and occasionally figuring out why they broke.
 
 <p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=r4ds3c&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=r4ds3c&theme=github_dark&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r4ds3c&layout=compact&theme=github_dark&hide_border=true" height="165"/> </p>
-🧠 Currently
-┌──────────────────────────────────────────────┐
-│  $ whoami                                    │
-│  r4ds3c                                      │
-│                                              │
-│  $ status                                    │
-│  ████████████████████░░  building            │
-│                                              │
-│  $ interests                                 │
-│  software • security • linux • automation    │
-└──────────────────────────────────────────────┘
+
 
 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=r4ds3c&theme=github-dark&hide_border=true&area=true" width="100%"/> </p>
